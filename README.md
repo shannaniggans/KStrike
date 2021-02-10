@@ -8,12 +8,12 @@ Stand-alone parser for User Access Logging from Server 2012 and newer systems
 
 ## KStrike
 
-This script wil parse data from the User Access Logging files contained on Windows Server 2012 and newer systems, found under the path "\Windows\System32\Logfiles\SUM". For documentation on these files, please visit the official documentation page at https://docs.microsoft.com/en-us/windows-server/administration/user-access-logging/manage-user-access-logging
+This script will parse data from the User Access Logging files contained on Windows Server 2012 and newer systems, found under the path "\Windows\System32\Logfiles\SUM". For documentation on these files, please visit the official documentation page at https://docs.microsoft.com/en-us/windows-server/administration/user-access-logging/manage-user-access-logging
 
 
 
 ### Usage 
-Run the script from the command line, afer you have extracted the database files from the SUM folder.
+Run the script from the command line, afer you have extracted the database files from the SUM folder. This script is written for Python2. Python3 support is on the roadmap.
 
 ```
 This script will parse on-disk User Access Logging found on Windows Server 2012
