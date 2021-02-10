@@ -1,48 +1,48 @@
-      Copyright (c) 2021 Brian Moran (BriMor Labs
-      @brianjmoran, @BriMorLabs, brimorlabs.com). All rights reserved.
+   Copyright (c) 2021 Brian Moran (BriMor Labs
+   @brianjmoran, @BriMorLabs, brimorlabs.com). All rights reserved.
 
-      This software is provided "as is," without warranty of any kind,
-      express or implied.  In no event shall the author or contributors
-      be held liable for any damages arising in any way from the use of
-      this software.
+   This software is provided "as is," without warranty of any kind,
+   express or implied.  In no event shall the author or contributors
+   be held liable for any damages arising in any way from the use of
+   this software.
 
-      The contents of this file are DUAL-LICENSED.  You may modify and/or
-      redistribute this software according to the terms of one of the
-      following two licenses (at your option):
+   The contents of this file are DUAL-LICENSED.  You may modify and/or
+   redistribute this software according to the terms of one of the
+   following two licenses (at your option):
 
-      LICENSE 1 ("BSD-like with acknowledgment clause"):
+   LICENSE 1 ("BSD-like with acknowledgment clause"):
 
-      Permission is granted to anyone to use this software for any purpose,
-      including commercial applications, and to alter it and redistribute
-      it freely, subject to the following restrictions:
+   Permission is granted to anyone to use this software for any purpose,
+   including commercial applications, and to alter it and redistribute
+   it freely, subject to the following restrictions:
 
-      1. Redistributions of source code must retain the above copyright
-         notice, disclaimer, and this list of conditions.
-      2. Redistributions in binary form must reproduce the above copyright
-         notice, disclaimer, and this list of conditions in the documenta-
-         tion and/or other materials provided with the distribution.
-      3. All advertising, training, and documentation materials mentioning 
-         features or use of this software must display the following 
-         acknowledgment. Character-limited social media may abbreviate this 
-         acknowledgment to include author and KStrike name ie: "This new 
-         feature brought to you by @brianjmoran's KStrike".
-         The spirit of this clause is to give public acknowledgment to 
-         researchers where credit is due.
+   1. Redistributions of source code must retain the above copyright
+      notice, disclaimer, and this list of conditions.
+   2. Redistributions in binary form must reproduce the above copyright
+      notice, disclaimer, and this list of conditions in the documenta-
+      tion and/or other materials provided with the distribution.
+   3. All advertising, training, and documentation materials mentioning 
+      features or use of this software must display the following 
+      acknowledgment. Character-limited social media may abbreviate this 
+      acknowledgment to include author and KStrike name ie: "This new 
+      feature brought to you by @brianjmoran's KStrike".
+      The spirit of this clause is to give public acknowledgment to 
+      researchers where credit is due.
 
-            This product includes software developed by Brian Moran 
-            Brian Moran (BriMor Labs, @brianjmoran, @BriMorLabs, brimorlabs.com). 
+   This product includes software developed by Brian Moran 
+   Brian Moran (BriMor Labs, @brianjmoran, @BriMorLabs, brimorlabs.com). 
 
 
-      LICENSE 2 (GNU GPL v3 or later):
+   LICENSE 2 (GNU GPL v3 or later):
 
-      GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+   GNU GENERAL PUBLIC LICENSE
+                    Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-                            Preamble
+  Preamble
 
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
@@ -105,7 +105,7 @@ patents cannot be used to render the program non-free.
   The precise terms and conditions for copying, distribution and
 modification follow.
 
-                       TERMS AND CONDITIONS
+   TERMS AND CONDITIONS
 
   0. Definitions.
 
@@ -248,26 +248,26 @@ and you may offer support or warranty protection for a fee.
 produce it from the Program, in the form of source code under the
 terms of section 4, provided that you also meet all of these conditions:
 
-    a) The work must carry prominent notices stating that you modified
-    it, and giving a relevant date.
+   a) The work must carry prominent notices stating that you modified
+   it, and giving a relevant date.
 
-    b) The work must carry prominent notices stating that it is
-    released under this License and any conditions added under section
-    7.  This requirement modifies the requirement in section 4 to
-    "keep intact all notices".
+   b) The work must carry prominent notices stating that it is
+   released under this License and any conditions added under section
+   7.  This requirement modifies the requirement in section 4 to
+   "keep intact all notices".
 
-    c) You must license the entire work, as a whole, under this
-    License to anyone who comes into possession of a copy.  This
-    License will therefore apply, along with any applicable section 7
-    additional terms, to the whole of the work, and all its parts,
-    regardless of how they are packaged.  This License gives no
-    permission to license the work in any other way, but it does not
-    invalidate such permission if you have separately received it.
+   c) You must license the entire work, as a whole, under this
+   License to anyone who comes into possession of a copy.  This
+   License will therefore apply, along with any applicable section 7
+   additional terms, to the whole of the work, and all its parts,
+   regardless of how they are packaged.  This License gives no
+   permission to license the work in any other way, but it does not
+   invalidate such permission if you have separately received it.
 
-    d) If the work has interactive user interfaces, each must display
-    Appropriate Legal Notices; however, if the Program has interactive
-    interfaces that do not display Appropriate Legal Notices, your
-    work need not make them do so.
+   d) If the work has interactive user interfaces, each must display
+   Appropriate Legal Notices; however, if the Program has interactive
+   interfaces that do not display Appropriate Legal Notices, your
+   work need not make them do so.
 
   A compilation of a covered work with other separate and independent
 works, which are not by their nature extensions of the covered work,
@@ -286,12 +286,12 @@ of sections 4 and 5, provided that you also convey the
 machine-readable Corresponding Source under the terms of this License,
 in one of these ways:
 
-    a) Convey the object code in, or embodied in, a physical product
+   a) Convey the object code in, or embodied in, a physical product
     (including a physical distribution medium), accompanied by the
     Corresponding Source fixed on a durable physical medium
     customarily used for software interchange.
 
-    b) Convey the object code in, or embodied in, a physical product
+   b) Convey the object code in, or embodied in, a physical product
     (including a physical distribution medium), accompanied by a
     written offer, valid for at least three years and valid for as
     long as you offer spare parts or customer support for that product
@@ -303,13 +303,13 @@ in one of these ways:
     conveying of source, or (2) access to copy the
     Corresponding Source from a network server at no charge.
 
-    c) Convey individual copies of the object code with a copy of the
+   c) Convey individual copies of the object code with a copy of the
     written offer to provide the Corresponding Source.  This
     alternative is allowed only occasionally and noncommercially, and
     only if you received the object code with such an offer, in accord
     with subsection 6b.
 
-    d) Convey the object code by offering access from a designated
+   d) Convey the object code by offering access from a designated
     place (gratis or for a charge), and offer equivalent access to the
     Corresponding Source in the same way through the same place at no
     further charge.  You need not require recipients to copy the
@@ -322,7 +322,7 @@ in one of these ways:
     Corresponding Source, you remain obligated to ensure that it is
     available for as long as needed to satisfy these requirements.
 
-    e) Convey the object code using peer-to-peer transmission, provided
+   e) Convey the object code using peer-to-peer transmission, provided
     you inform other peers where the object code and Corresponding
     Source of the work are being offered to the general public at no
     charge under subsection 6d.
@@ -399,24 +399,24 @@ for which you have or can give appropriate copyright permission.
 add to a covered work, you may (if authorized by the copyright holders of
 that material) supplement the terms of this License with terms:
 
-    a) Disclaiming warranty or limiting liability differently from the
+   a) Disclaiming warranty or limiting liability differently from the
     terms of sections 15 and 16 of this License; or
 
-    b) Requiring preservation of specified reasonable legal notices or
+   b) Requiring preservation of specified reasonable legal notices or
     author attributions in that material or in the Appropriate Legal
     Notices displayed by works containing it; or
 
-    c) Prohibiting misrepresentation of the origin of that material, or
+   c) Prohibiting misrepresentation of the origin of that material, or
     requiring that modified versions of such material be marked in
     reasonable ways as different from the original version; or
 
-    d) Limiting the use for publicity purposes of names of licensors or
+   d) Limiting the use for publicity purposes of names of licensors or
     authors of the material; or
 
-    e) Declining to grant rights under trademark law for use of some
+   e) Declining to grant rights under trademark law for use of some
     trade names, trademarks, or service marks; or
 
-    f) Requiring indemnification of licensors and authors of that
+   f) Requiring indemnification of licensors and authors of that
     material by anyone who conveys the material (or modified versions of
     it) with contractual assumptions of liability to the recipient, for
     any liability that these contractual assumptions directly impose on
@@ -655,9 +655,9 @@ an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
-                     END OF TERMS AND CONDITIONS
+   END OF TERMS AND CONDITIONS
 
-            How to Apply These Terms to Your New Programs
+   How to Apply These Terms to Your New Programs
 
   If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
@@ -668,20 +668,20 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    {one line to give the program's name and a brief idea of what it does.}
+   {one line to give the program's name and a brief idea of what it does.}
     Copyright (C) {year}  {name of author}
 
-    This program is free software: you can redistribute it and/or modify
+   This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    This program is distributed in the hope that it will be useful,
+   This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
-    You should have received a copy of the GNU General Public License
+   You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Also add information on how to contact you by electronic and paper mail.
@@ -689,12 +689,12 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    {project}  Copyright (C) {year}  {fullname}
-    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
-    This is free software, and you are welcome to redistribute it
-    under certain conditions; type `show c' for details.
+   {project}  Copyright (C) {year}  {fullname}
+   This program comes with ABSOLUTELY NO WARRANTY; for details type `show w`.
+   This is free software, and you are welcome to redistribute it
+   under certain conditions; type `show c` for details.
 
-The hypothetical commands `show w' and `show c' should show the appropriate
+The hypothetical commands `show w` and `show c` should show the appropriate
 parts of the General Public License.  Of course, your program's commands
 might be different; for a GUI interface, you would use an "about box".
 
