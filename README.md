@@ -1,4 +1,4 @@
-![KStrike](https://github.com/brimorlabs/KStrike/blob/[branch]/KStrike.png?raw=true)
+![KStrike](https://github.com/brimorlabs/KStrike/blob/main/KStrike.png?raw=true)
 
 
 # KStrike
