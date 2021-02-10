@@ -1,3 +1,6 @@
+![KStrike](https://github.com/brimorlabs/KStrike/blob/[branch]/KStrike.png?raw=true)
+
+
 # KStrike
 Stand-alone parser for User Access Logging from Server 2012 and newer systems
 
