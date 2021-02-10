@@ -19,5 +19,3 @@ This script has been tested on the following systems:
 REQUIREMENTS:
 
 - libesedb (pyesedb) (https://github.com/libyal/libesedb)
-- Python2 
-- May require some additional Perl modules
