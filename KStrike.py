@@ -140,7 +140,7 @@ def Check_Column_Type(Table_Record, Column_Type, Column_Number, Record_List): #A
               del macParts[3] #Nope again
               rawmacparts = ":".join(macParts) #More formatting
               finalmac=str(rawmacparts).upper() #Upper case      
-              sys.stdout.write(str(hexdb)+"||"+str(colonaddedtohexdb)+" MAC: "+str(finalmac)+"||") #Writing raw address and converted address to stdout
+              sys.stdout.write(str(hexdb)+"||"+str(colonaddedtohexdb)+" IPv6 MAC: "+str(finalmac)+"||") #Writing raw address and converted address to stdout
           elif ( (str(hexdb) == "00000000000000000000000000000001") and (Column_Name == "Address") and (len(hexdb) == 32)): # A couple of checks for the IPV6 local host address formatting
               sys.stdout.write(hexdb+"||Local Host ::1||") #Writing the data out if the address is local host IPv6
           else:
