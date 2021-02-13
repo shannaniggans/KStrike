@@ -32,7 +32,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 Many thanks to:
-- Kevin, the original discoverer of this arifact
+- Patrick
+- Kevin
 - Mark McKinnon and Mark Baggett (for their work on SRUM parsing scripts which helped with ESE database/field structure
 - Microsoft reference material on this artifact: https://docs.microsoft.com/en-us/windows-server/administration/user-access-logging/manage-user-access-logging
 '''
